@@ -1,0 +1,15 @@
+body {
+  padding: 10px;
+  font-family: sans-serif;
+}
+
+.ccl-main-title {
+  text-align: center;
+}
+
+.ccl-highlight {
+  background-color: yellow;
+  color: darkred;
+  padding-left: 0;
+  padding-right: 0;
+}
